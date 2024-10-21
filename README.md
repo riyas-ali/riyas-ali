@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @riyas-ali
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Angular
-<!-- - 💞️ I’m looking to collaborate on Companies -->
-- 📫 How to reach me riyasalimkokl@gmail.com
+👋 Hi, I’m Riyas Ali
+👀 Front-End Developer with a passion for building user-friendly web applications
+⚒️ Currently working as an Angular Developer in an IT company
+🌱 Expanding my skillset by learning React
+💞️ I’m open to collaboration opportunities
+📫 Feel free to reach me at: riyasalimkokl@gmail.com
 
 <!---
 riyas-ali/riyas-ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
